@@ -35,10 +35,22 @@ Combining HTML and some actual programming is pretty saucy.
 [MvcMovie](https://github.com/delsuckahh/MvcMovie)<br>
 [Microsoft Tutorial](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/adding-view?view=aspnetcore-2.1&tabs=visual-studio)
 
+### Day 3: January 23, 2019
+
+**Today's Progress**: Continued with Microsoft's MVC tutorial, finished one more section. 
+
+**Thoughts:** I did a LOT of reading today.  I spent some time throughout the day finishing up the tutorial at TutorialsPoint, which gave a good overview of the interacting pieces of ASP.NET.  I went off a bit of a tangent from the Microsoft Tutorial and read up on Async/Await.  The documentation I've been reading hasn't covered that in detail even though it's present in the code.  I feel pretty comfortable with that terminology now, and I'm on track to finish the tutorial by the end of the week.  I've got high hopes and ambitions for my web app idea of a meal planner, so I'll be excited to get started on that here soon.
+
+**Link to work:** <br>
+[MvcMovie](https://github.com/delsuckahh/MvcMovie/tree/master/MvcMovie)<br>
+[Microsoft Tutorial](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/adding-view?view=aspnetcore-2.1&tabs=visual-studio)<br>
+[TutorialsPoint](https://www.tutorialspoint.com/asp.net/)
 
 <br>
 <br>
 <br>
+
+
 
 ### Template
 ### Day [#]: [January 22, 2019]
