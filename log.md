@@ -46,17 +46,12 @@ Combining HTML and some actual programming is pretty saucy.
 [Microsoft Tutorial](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/adding-view?view=aspnetcore-2.1&tabs=visual-studio)<br>
 [TutorialsPoint](https://www.tutorialspoint.com/asp.net/)
 
-<br>
-<br>
-<br>
+### Day 4: January 24, 2019
 
+**Today's Progress**: Finsished up Microsoft's MVC tutorial. 
 
+**Thoughts:** Another reading/tutorial heavy day.  I can already see the benefit in going through the tutorials; I was even able to use what I've learned so far at work today.  An application that we support uses .NET and Oracle, and I was able to follow along and help a co-worker (shoutout to my boi Sposi) debug an issue today.  I was able to identify and understand lambda functions, async/await calls, and the interactions between models, views, and controllers.  I didn't spend quite an hour this evening in tutorials.  I finished a bit early, but since my next step is to actually start on my project, I'm going to wait until tomorrow so I can dedicate more uninterrupted time towards it.  Tomorrow I hope to progress in creating a login for my webapp using the SQL Server functionality built in the ASP.NET framework.  
 
-### Template
-### Day [#]: [January 22, 2019]
-
-**Today's Progress**: 
-
-**Thoughts:** 
-
-**Link to work:** 
+**Link to work:** <br>
+[MvcMovie](https://github.com/delsuckahh/MvcMovie/tree/master/MvcMovie)<br>
+[Microsoft Tutorial](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/adding-view?view=aspnetcore-2.1&tabs=visual-studio)<br>
