@@ -55,3 +55,12 @@ Combining HTML and some actual programming is pretty saucy.
 **Link to work:** <br>
 [MvcMovie](https://github.com/delsuckahh/MvcMovie/tree/master/MvcMovie)<br>
 [Microsoft Tutorial](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/adding-view?view=aspnetcore-2.1&tabs=visual-studio)<br>
+
+### Day 5: January 25, 2019
+
+**Today's Progress**: Started on the meal planning app; added authorization and started planning out the classes/models.  
+
+**Thoughts:** I'm a little overwhelmed on how to design the models for future proofing / reusability.  I want to make sure that what I code can be added on to and maintained and edited easily in the future.  I want to make sure that what I design makes sense and will work for what I'm trying to accomplish.  Does "food" need to be it's own class?  Or should it just be a property of the "recipe" class?  Does "meal" need it's own class, or can that just be the title of the recipe class?  I had fun playing around with authorization of the app and linking views to controllers.  I may need to step back and think about the design of the data before I go any further.
+
+**Link to work:** <br>
+[MealPlanner](https://github.com/delsuckahh/meal-planner/tree/master/MealPlanner)<br>
