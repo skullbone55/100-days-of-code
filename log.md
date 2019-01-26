@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 6: January 26, 2019
+
+**Today's Progress**: Continued thinking/planning data models in regards to recipies, meals, and ingredients.  Researched and read documentation regarding the Identity library for ASP.NET provided by the Entity Framework  
+
+**Thoughts:** I'm leaving today feeling confused.  I'm trying to understand how the Identity library works in regards to authorization.  For example, if you sign in to the app and click your username at the top right, it takes you to a user page.  I CANNOT find where this is coded.  I see the \_LoginPartial.cshtml file in View/Shared.  That reveals to me that clicking on the username invokes a controller in area "Identity".  HOWEVER, I can't find this controller.  Check this out:
+```
+<li>
+    <a asp-area="Identity" asp-page="/Account/Manage/Index" title="Manage">Hello @UserManager.GetUserName(User)!</a>
+</li>
+```     
+So, I do see an Areas folder, and I can see this path: Areas/Identity/Pages/\_ViewStart.cshtml.  \_ViewStart just points to the shared \_Layout view.  But I do NOT see any controller, so how does it interpret "Account/Manage/Index"?  It's my understanding that there should be an AccountController somewhere, which has either/both a manage or/and index method.  I'm having a hard time finding the documentation on this...
+
+**Link to work:** <br>
+[MealPlanner](https://github.com/delsuckahh/meal-planner/tree/master/MealPlanner)<br>
+
+
 ### Day 5: January 25, 2019
 
 **Today's Progress**: Started on the meal planning app; added authorization and started planning out the classes/models.  
