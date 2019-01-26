@@ -1,14 +1,34 @@
 # 100 Days Of Code - Log
 
-### Day 1: January 21, 2019
+### Day 5: January 25, 2019
 
-**Today's Progress**: Environment setup (VS 2017). Initial commit of web app. Progressed in MVC tutorial and initial commit.
+**Today's Progress**: Started on the meal planning app; added authorization and started planning out the classes/models.  
 
-**Thoughts:** Day number one.  I have high hopes for this challenge.  I am excited and a little nervous.  I overestimated what I actually knew about ASP.NET.  I can recall the terminology, but I'm a bit lost of where to begin.  I've decided to take a couple days to refresh my memory with tutorials.
+**Thoughts:** I'm a little overwhelmed on how to design the models for future proofing / reusability.  I want to make sure that what I code can be added on to and maintained and edited easily in the future.  I want to make sure that what I design makes sense and will work for what I'm trying to accomplish.  Does "food" need to be it's own class?  Or should it just be a property of the "recipe" class?  Does "meal" need it's own class, or can that just be the title of the recipe class?  I had fun playing around with authorization of the app and linking views to controllers.  I may need to step back and think about the design of the data before I go any further.
 
-**Link to work:** <br> 
-[MealPlanner](https://github.com/delsuckahh/meal-planner)<br>
-[MvcMovie](https://github.com/delsuckahh/MvcMovie)
+**Link to work:** <br>
+[MealPlanner](https://github.com/delsuckahh/meal-planner/tree/master/MealPlanner)<br>
+
+### Day 4: January 24, 2019
+
+**Today's Progress**: Finished up Microsoft's MVC tutorial. 
+
+**Thoughts:** Another reading/tutorial heavy day.  I can already see the benefit in going through the tutorials; I was even able to use what I've learned so far at work today.  An application that we support uses .NET and Oracle, and I was able to follow along and help a co-worker (shoutout to my boi Sposi) debug an issue today.  I was able to identify and understand lambda functions, async/await calls, and the interactions between models, views, and controllers.  I didn't spend quite an hour this evening in tutorials.  I finished a bit early, but since my next step is to actually start on my project, I'm going to wait until tomorrow so I can dedicate more uninterrupted time towards it.  Tomorrow I hope to progress in creating a login for my webapp using the SQL Server functionality built in the ASP.NET framework.  
+
+**Link to work:** <br>
+[MvcMovie](https://github.com/delsuckahh/MvcMovie/tree/master/MvcMovie)<br>
+[Microsoft Tutorial](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/adding-view?view=aspnetcore-2.1&tabs=visual-studio)<br>
+
+### Day 3: January 23, 2019
+
+**Today's Progress**: Continued with Microsoft's MVC tutorial, finished one more section. 
+
+**Thoughts:** I did a LOT of reading today.  I spent some time throughout the day finishing up the tutorial at TutorialsPoint, which gave a good overview of the interacting pieces of ASP.NET.  I went off a bit of a tangent from the Microsoft Tutorial and read up on Async/Await.  The documentation I've been reading hasn't covered that in detail even though it's present in the code.  I feel pretty comfortable with that terminology now, and I'm on track to finish the tutorial by the end of the week.  I've got high hopes and ambitions for my web app idea of a meal planner, so I'll be excited to get started on that here soon.
+
+**Link to work:** <br>
+[MvcMovie](https://github.com/delsuckahh/MvcMovie/tree/master/MvcMovie)<br>
+[Microsoft Tutorial](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/adding-view?view=aspnetcore-2.1&tabs=visual-studio)<br>
+[TutorialsPoint](https://www.tutorialspoint.com/asp.net/)<br>
 
 ### Day 2: January 22, 2019
 
@@ -33,34 +53,14 @@ Combining HTML and some actual programming is pretty saucy.
 
 **Link to work:** <br> 
 [MvcMovie](https://github.com/delsuckahh/MvcMovie)<br>
-[Microsoft Tutorial](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/adding-view?view=aspnetcore-2.1&tabs=visual-studio)
-
-### Day 3: January 23, 2019
-
-**Today's Progress**: Continued with Microsoft's MVC tutorial, finished one more section. 
-
-**Thoughts:** I did a LOT of reading today.  I spent some time throughout the day finishing up the tutorial at TutorialsPoint, which gave a good overview of the interacting pieces of ASP.NET.  I went off a bit of a tangent from the Microsoft Tutorial and read up on Async/Await.  The documentation I've been reading hasn't covered that in detail even though it's present in the code.  I feel pretty comfortable with that terminology now, and I'm on track to finish the tutorial by the end of the week.  I've got high hopes and ambitions for my web app idea of a meal planner, so I'll be excited to get started on that here soon.
-
-**Link to work:** <br>
-[MvcMovie](https://github.com/delsuckahh/MvcMovie/tree/master/MvcMovie)<br>
-[Microsoft Tutorial](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/adding-view?view=aspnetcore-2.1&tabs=visual-studio)<br>
-[TutorialsPoint](https://www.tutorialspoint.com/asp.net/)
-
-### Day 4: January 24, 2019
-
-**Today's Progress**: Finished up Microsoft's MVC tutorial. 
-
-**Thoughts:** Another reading/tutorial heavy day.  I can already see the benefit in going through the tutorials; I was even able to use what I've learned so far at work today.  An application that we support uses .NET and Oracle, and I was able to follow along and help a co-worker (shoutout to my boi Sposi) debug an issue today.  I was able to identify and understand lambda functions, async/await calls, and the interactions between models, views, and controllers.  I didn't spend quite an hour this evening in tutorials.  I finished a bit early, but since my next step is to actually start on my project, I'm going to wait until tomorrow so I can dedicate more uninterrupted time towards it.  Tomorrow I hope to progress in creating a login for my webapp using the SQL Server functionality built in the ASP.NET framework.  
-
-**Link to work:** <br>
-[MvcMovie](https://github.com/delsuckahh/MvcMovie/tree/master/MvcMovie)<br>
 [Microsoft Tutorial](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/adding-view?view=aspnetcore-2.1&tabs=visual-studio)<br>
 
-### Day 5: January 25, 2019
+### Day 1: January 21, 2019
 
-**Today's Progress**: Started on the meal planning app; added authorization and started planning out the classes/models.  
+**Today's Progress**: Environment setup (VS 2017). Initial commit of web app. Progressed in MVC tutorial and initial commit.
 
-**Thoughts:** I'm a little overwhelmed on how to design the models for future proofing / reusability.  I want to make sure that what I code can be added on to and maintained and edited easily in the future.  I want to make sure that what I design makes sense and will work for what I'm trying to accomplish.  Does "food" need to be it's own class?  Or should it just be a property of the "recipe" class?  Does "meal" need it's own class, or can that just be the title of the recipe class?  I had fun playing around with authorization of the app and linking views to controllers.  I may need to step back and think about the design of the data before I go any further.
+**Thoughts:** Day number one.  I have high hopes for this challenge.  I am excited and a little nervous.  I overestimated what I actually knew about ASP.NET.  I can recall the terminology, but I'm a bit lost of where to begin.  I've decided to take a couple days to refresh my memory with tutorials.
 
-**Link to work:** <br>
-[MealPlanner](https://github.com/delsuckahh/meal-planner/tree/master/MealPlanner)<br>
+**Link to work:** <br> 
+[MealPlanner](https://github.com/delsuckahh/meal-planner)<br>
+[MvcMovie](https://github.com/delsuckahh/MvcMovie)<br>
