@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 7: January 27, 2019
+
+**Today's Progress**: Got a working version of the recipe model, implemented the controller/view, and updated the EFCore database to recognize the new recipe model.   
+
+**Thoughts:** I'm still not sure what's going on in the Identity library from Day 6, but I decided to move on for now and will continue researching at a later time.  I'm feeling good about the Recipe model I created, and my next steps are more front-end in nature.  I took care of the back-end work today with setting up the model and controller, but I need to modify the view to suit my needs.
+
+**Link to work:** <br>
+[MealPlanner](https://github.com/delsuckahh/meal-planner/tree/master/MealPlanner)<br>
+
 ### Day 6: January 26, 2019
 
 **Today's Progress**: Continued thinking/planning data models in regards to recipies, meals, and ingredients.  Researched and read documentation regarding the Identity library for ASP.NET provided by the Entity Framework  
