@@ -5,6 +5,7 @@
 **Today's Progress**: Got a working version of the recipe model, implemented the controller/view, and updated the EFCore database to recognize the new recipe model.   
 
 **Thoughts:** I'm still not sure what's going on in the Identity library from Day 6, but I decided to move on for now and will continue researching at a later time.  I'm feeling good about the Recipe model I created, and my next steps are more front-end in nature.  I took care of the back-end work today with setting up the model and controller, but I need to modify the view to suit my needs.
+EDIT: I found through some searching on Reddit that you can scaffold out the Identity library.  This reveals all of the views that I thought were missing, which is really helpful to see.  I still am not 100% on how the controller works.  The scaffold created a IdentityHostingStartup.cs, which is the closest thing to a controller I could find.  I still don't see where it's interpreting the URL and telling the program which view to serve.
 
 **Link to work:** <br>
 [MealPlanner](https://github.com/delsuckahh/meal-planner/tree/master/MealPlanner)<br>
