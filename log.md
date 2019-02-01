@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+## Day 4: January 31, 2019
+
+**Today's Progress**: 
+Started a new Puzzle. Got the Encrypted Part working. Did not get to the Decrypt part.
+
+**Thoughts:** 
+I got half of the puzzle solved. Will work on the second half tomorrow.
+
+**Link to work:** <br> 
+[Original Challenge](https://www.codingame.com/ide/puzzle/encryptiondecryption-of-enigma-machine)<br>
+[Source Code for the Day](https://github.com/skullbone55/CodeProjectChallenges/tree/master/CodeProjectChallenges)
+
 
 ## Day 3: January 30, 2019
 
