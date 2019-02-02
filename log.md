@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+
+## Day 5: February 1, 2019
+
+**Today's Progress**: 
+Continued on the same puzzle from yesterday and got all given test cases passed. Two of the hidden test cases did not pass, so I am missing something in the solution.
+
+**Thoughts:** 
+Continued on the same puzzle. I figured out how to get the decode to work and got that implemented. Still did not get all cases to pass so I will hopefully figure that out tomorrow. 
+ 
+**Link to work:** <br> 
+[Original Challenge](https://www.codingame.com/ide/puzzle/encryptiondecryption-of-enigma-machine)<br>
+[Source Code for the Day](https://github.com/skullbone55/CodeProjectChallenges/tree/master/CodeProjectChallenges)
+
 ## Day 4: January 31, 2019
 
 **Today's Progress**: 
@@ -52,7 +65,7 @@ Did not get as far as I would have liked but can continue tomorrow.
 
 
 # Template #
-## Day X: January 2x, 2019
+## Day X: February x, 2019
 
 **Today's Progress**: 
 
