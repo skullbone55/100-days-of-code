@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+## Day 6: February 2, 2019
+
+**Today's Progress**: 
+Today I worked on a web application I have been working on in the last month. It's an application that lets you track costs and income. It will then show you breakdowns by Weekly or Monthly. Today I worked on the Monthly breakdown. Today, I worked on the backend to get the data to the client. 
+
+**Thoughts:** 
+It was a productive day. I decided to work on this application and move way from the puzzle. I plan on working on both of these over the next 94 days. This is so I do not get board of one thing and can improve both skills. This is to help with getting good at web development as well as get better at solving problems. Currently the repository is private. I might look at making public at a later date.
+
+**Link to work:** <br> 
+(MyFinanceWebsite)[https://github.com/skullbone55/MyFinanceWebsite]
 
 ## Day 5: February 1, 2019
 
