@@ -1,5 +1,27 @@
 # 100 Days Of Code - Log
 
+## Day 8 February 4, 2019
+
+**Today's Progress**: 
+Today I worked on my web application. I mostly worked on the HTML and JS to get the Monthly Breakdown report to display properly. 
+
+**Thoughts:** 
+It was a productive day and got the display for the Monthly Breakdown report working. The display is not the best but it is working. I plan to improve the look and feel of the entire app later. Right now I just want to get it working. 
+
+**Link to work:** <br> 
+[MyFinanceWebsite](https://github.com/skullbone55/MyFinanceWebsite)
+
+## Day 7: February 3, 2019
+
+**Today's Progress**: 
+N/A
+
+**Thoughts:** 
+I did not get a chance to work on anything due to not feeling well. I will add a day to the end.
+
+**Link to work:** <br> 
+N/A
+
 ## Day 6: February 2, 2019
 
 **Today's Progress**: 
@@ -9,7 +31,7 @@ Today I worked on a web application I have been working on in the last month. It
 It was a productive day. I decided to work on this application and move way from the puzzle. I plan on working on both of these over the next 94 days. This is so I do not get board of one thing and can improve both skills. This is to help with getting good at web development as well as get better at solving problems. Currently the repository is private. I might look at making public at a later date.
 
 **Link to work:** <br> 
-(MyFinanceWebsite)[https://github.com/skullbone55/MyFinanceWebsite]
+[MyFinanceWebsite](https://github.com/skullbone55/MyFinanceWebsite)
 
 ## Day 5: February 1, 2019
 
