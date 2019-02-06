@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+## Day 9: February 5, 2019
+
+**Today's Progress**: 
+Today I worked on creating templates in Visual Studios. 
+
+**Thoughts:** 
+Visual Studios templates helps you have a standard way of defining the structure, layout and flow of any type of application from a source app. After the definition you can create the same baseline app with the click of a button. This will save time in the future if you want to create a new App of the same architecture. I can see this being very useful in an Enterprise setting, and even more so for companies that implement SOA (Service-Oriented Architecture).
+
+**Link to work:** <br> 
+[NewTemplateWebsite](https://github.com/skullbone55/TemplateWeb)
+
 ## Day 8 February 4, 2019
 
 **Today's Progress**: 
