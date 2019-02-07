@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+
+## Day 10: February 6, 2019
+
+**Today's Progress**: 
+Did a little more research on the template in Visual Studios. 
+
+**Thoughts:** 
+I did find a few things to make the template a little better. I also created a Readme page so I can remember what needs to change for a new project. 
+
+**Link to work:** <br> 
+[NewTemplateWebsite](https://github.com/skullbone55/TemplateWeb)
+
 ## Day 9: February 5, 2019
 
 **Today's Progress**: 
